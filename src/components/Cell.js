@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Cell = ({ type }) => (
-    <dive>Cell</dive>
+    <div>Cell</div>
 )
 
 export default Cell;
